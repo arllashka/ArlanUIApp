@@ -4,4 +4,4 @@
 
 App Template on iPhone for creating User Interfaces and User Interactions
 
-![Preview](Assets/Demo.gif)
+![Preview](Preview/Demo.gif)
